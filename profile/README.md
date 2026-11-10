@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Eggie</h1>
-<p align="center"><b>Building an app should be as easy as cooking an omelet.</b></p>
+<p align="center"><b>Building an app should be as easy as boiling an egg.</b></p>
 
 Eggie sets up a ready-to-cook development environment on your computer —
 or in the cloud — so you can build real apps with your AI coding agent
