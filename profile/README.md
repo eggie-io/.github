@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://eggie.io/logo.svg" width="96" alt="Eggie" />
+  <img src="https://github.com/eggie-io/.github/blob/main/profile/eggie-logo-lockup.png" width="196" alt="Eggie" />
 </p>
 
-<h1 align="center">Eggie</h1>
 <p align="center"><b>Building an app should be as easy as boiling an egg.</b></p>
 
 Eggie sets up a ready-to-cook development environment on your computer —
